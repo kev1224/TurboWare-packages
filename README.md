@@ -1,6 +1,4 @@
-Got it! Here’s the updated README with TurboWare instead of Turbo UNIX:
 
-```markdown
 # TUPM Packages Repository
 
 Welcome to the **TUPM Packages Repository**! This repository contains packages for **TUPM** (TurboWare Package Manager), designed to simplify the installation and management of software on TurboWare.
@@ -55,4 +53,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for checking out the TUPM Packages Repository! We hope you enjoy using TurboWare and TUPM.
 ```
 
-Let me know if you want to make any more changes!
