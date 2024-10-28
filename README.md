@@ -47,9 +47,3 @@ We welcome contributions! If you have suggestions for new packages or improvemen
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for checking out the TUPM Packages Repository! We hope you enjoy using TurboWare and TUPM.
-```
-
