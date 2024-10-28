@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+    <name>hello</name>
+    <description>A classic Hello World command.</description>
+    <dependencies>
+        <dependency>exec</dependency>
+    </dependencies>
+</package>
