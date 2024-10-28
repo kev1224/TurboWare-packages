@@ -2,7 +2,5 @@
 <package>
     <name>hello</name>
     <description>A classic Hello World command.</description>
-    <dependencies>
-        <dependency>exec</dependency>
-    </dependencies>
+    <dependency>exec</dependency>
 </package>
